@@ -1,10 +1,11 @@
-# Tela de login
-Esta é uma tela de login simples em linguagem Java com interface gráfica usando JFrame e JOptionPane.
+# Login Screen
+This is a simple login screen implemented in Java with a graphical interface using `JFrame` and `JOptionPane`.
 
+## Features
+- Requests the user to input a username and a password;
+- Verifies if the username and password match the expected values;
+- Displays a success message if the credentials are correct;
+- Displays an error message if the credentials are incorrect.
 
-## Funcionalidades
-- Solicita que o usuário insira um nome de usuário e uma senha;
-- Verifica se o nome de usuário e a senha correspondem aos valores esperados;
-- Exibe uma mensagem de sucesso se as credenciais estiverem corretas;
-- Exibe uma mensagem de erro se as credenciais estiverem incorretas.
-
+## Autor
+Kevin Reys
